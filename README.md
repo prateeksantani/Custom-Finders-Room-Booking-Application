@@ -1,5 +1,3 @@
-# Custom-Finders-Room-Booking-Application
-About A Spring Boot application that demonstrates best practices in API development developed some Custom finders that are not directly inherited methods from JPA 
 
 # Spring Boot Room Booking Application
 
