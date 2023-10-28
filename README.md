@@ -56,6 +56,4 @@ Here's a summary of the available endpoints:
 - **GET /rooms/AC/or/available**: Retrieve available rooms with AC, sorted by price.
 - **DELETE /rooms/ids**: Delete multiple rooms by their IDs.
 
-Make sure to configure your database and Spring Boot application properties appropriately. You can customize and expand this project to suit your specific needs.
 
-Enjoy using this Spring Boot Room Booking Application!
